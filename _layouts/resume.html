@@ -175,7 +175,7 @@
 
         <div class="resume-item">
           {% for link in site.data.links %}
-          <h3 class="resume-item-title" itemprop="name">{% if link.url %}<a href="{{ link.url }}" itemprop="url">{{ link.certi }}</a>{% else %}{{ link.certi }}{% endif %}</h3>
+          <h3 class="resume-item-title" itemprop="name">{% if link.url %}<a href="{{ link.url }}" itemprop="url" target="_blank">{{ link.certi }}</a>{% else %}{{ link.certi }}{% endif %}</h3>
           <p class="resume-item-copy">{{ link.description }}</p>
           {% endfor %}
         </div>
