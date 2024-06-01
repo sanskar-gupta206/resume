@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bathelor of Technology in Production Engineering
+  uni: National Institue of Technology, Calicut
+  year: 2022 &mdash; 2026 
+  cgpa: 7.80
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Diploma in Data Science
+  uni: Indian Institue of Technology, Madras
+  year: 2022 &mdash; Present
+
+- degree: class 12 (CBSE)
+  uni: Blue Heaven Vidhalaya, Jaipur
+  year: 2021
+  cgpa: 88.4%
+
+- degree: class 10 (CBSE)
+  uni: Tagore International School, Jaipur
+  year: 2019
+  cgpa: 86.2%
