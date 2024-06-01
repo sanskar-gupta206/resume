@@ -165,25 +165,25 @@
       <!-- end Interests -->
       <!-- {% endif %} -->
 
-      <!-- {% if site.resume_section_links %} -->
+      {% if site.resume_section_links %}
       <!-- begin Links -->
-      <!-- <section class="content-section">
+      <section class="content-section">
 
         <header class="section-header">
-          <h2>Additional Links</h2>
+          <h2>Certification</h2>
         </header>
 
         <div class="resume-item">
           <ul class="resume-item-list">
             {% for link in site.data.links %}
-            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
+            <h3 class="resume-item-title" itemprop="name">{% if link.url %}<a href="{{ link.url }}" itemprop="url">{{ link.certi }}</a>{% else %}{{ link.certi }}{% endif %}</h3>
             {% endfor %}
           </ul>
         </div>
 
-      </section> -->
+      </section>
       <!-- end Links -->
-      <!-- {% endif %} -->
+      {% endif %}
 
       {% if site.resume_print_social_links %}
       <!-- begin Print Social Links -->
@@ -201,10 +201,10 @@
       <!-- end Print Social Links -->
       {% endif %}
 
-      <footer class="page-footer">
+      <!-- <footer class="page-footer">
         <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
         <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
-      </footer>
+      </footer> -->
 
     </div>
 
