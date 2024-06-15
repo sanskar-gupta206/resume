@@ -2,7 +2,6 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- projects:
   - project: Salon Business Analysis
     role: Understanding business model - Excel, Python, Dash
     duration: Nov 2023 &mdash; June 2024
