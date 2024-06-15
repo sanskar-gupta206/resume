@@ -2,8 +2,12 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Salon Business Anaylsis
-  role: Understanding business model - Excel, Python, Dash
-  duration: Nov 2023 &mdash; June 2024
-  url: "https://app.powerbi.com/view?r=eyJrIjoiMjA1YTFiZTYtMjNmNi00ZmQ2LTkxNjgtMmE3NTM1ZTY5NGFmIiwidCI6IjU1NjljMGIwLTNiNTUtNGIyNC04ZGMxLTQ4NzU3OWM1ZjAxMSJ9"
-  description: Analyzed sales data and costs to drive strategic decisions and optimize pricing, boosting profitability. Streamlined expenses and implemented targeted promotions to enhance revenue and maintain competitiveness. Developed market-driven growth strategies, introducing new offerings and capitalizing on trends for sustained expansion.
+- projects:
+  - project: Salon Business Analysis
+    role: Understanding business model - Excel, Python, Dash
+    duration: Nov 2023 &mdash; June 2024
+    url: "https://app.powerbi.com/view?r=eyJrIjoiMjA1YTFiZTYtMjNmNi00ZmQ2LTkxNjgtMmE3NTM1ZTY5NGFmIiwidCI6IjU1NjljMGIwLTNiNTUtNGIyNC04ZGMxLTQ4NzU3OWM1ZjAxMSJ9"
+    description:
+      - Analyzed sales data and costs to drive strategic decisions and optimize pricing, boosting profitability.
+      - Streamlined expenses and implemented targeted promotions to enhance revenue and maintain competitiveness.
+      - Developed market-driven growth strategies, introducing new offerings and capitalizing on trends for sustained expansion.
